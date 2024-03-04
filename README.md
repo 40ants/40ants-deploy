@@ -6,20 +6,12 @@
 
 ## 40ANTS-DEPLOY ASDF System Details
 
-* Version: 0.1.0
-
 * Description: Utilities making it easier to use Deploy library.
-
 * Licence: Unlicense
-
 * Author: Alexander Artemenko <svetlyak.40wt@gmail.com>
-
 * Homepage: [https://40ants.com/40ants-deploy/][9b27]
-
 * Bug tracker: [https://github.com/40ants/40ants-deploy/issues][2cc0]
-
 * Source control: [GIT][ac12]
-
 * Depends on: [cffi][0383], [deploy][e073]
 
 [![](https://github-actions.40ants.com/40ants/40ants-deploy/matrix.svg?only=ci.run-tests)][89e2]
@@ -53,7 +45,7 @@ You can install this library from Quicklisp, but you want to receive updates qui
 
 <a id="x-28-23A-28-2813-29-20BASE-CHAR-20-2E-20-2240ANTS-DEPLOY-22-29-20PACKAGE-29"></a>
 
-#### [package](0b19) `40ants-deploy`
+#### [package](a0b6) `40ants-deploy`
 
 <a id="x-2840ANTS-DEPLOY-DOCS-2FINDEX-3A-3A-7C-4040ANTS-DEPLOY-3FFunctions-SECTION-7C-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -61,7 +53,7 @@ You can install this library from Quicklisp, but you want to receive updates qui
 
 <a id="x-2840ANTS-DEPLOY-3ADONT-DEPLOY-SYSTEM-LIBS-20FUNCTION-29"></a>
 
-##### [function](faf8) `40ants-deploy:dont-deploy-system-libs`
+##### [function](247a) `40ants-deploy:dont-deploy-system-libs`
 
 Marks system libraries such way so Deploy will not put them into the bin/ folder.
 
@@ -69,8 +61,8 @@ Marks system libraries such way so Deploy will not put them into the bin/ folder
 [9b27]: https://40ants.com/40ants-deploy/
 [ac12]: https://github.com/40ants/40ants-deploy
 [89e2]: https://github.com/40ants/40ants-deploy/actions
-[0b19]: https://github.com/40ants/40ants-deploy/blob/edf0d492f5c87319abbf97c356042718b4be2c2e/src/core.lisp#L1
-[faf8]: https://github.com/40ants/40ants-deploy/blob/edf0d492f5c87319abbf97c356042718b4be2c2e/src/core.lisp#L13
+[a0b6]: https://github.com/40ants/40ants-deploy/blob/27a637a9030c69605bd0e9792b542d3e3ff02da1/src/core.lisp#L1
+[247a]: https://github.com/40ants/40ants-deploy/blob/27a637a9030c69605bd0e9792b542d3e3ff02da1/src/core.lisp#L13
 [2cc0]: https://github.com/40ants/40ants-deploy/issues
 [0383]: https://quickdocs.org/cffi
 [e073]: https://quickdocs.org/deploy
