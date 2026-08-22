@@ -45,7 +45,7 @@ You can install this library from Quicklisp, but you want to receive updates qui
 
 <a id="x-28-23A-28-2813-29-20BASE-CHAR-20-2E-20-2240ANTS-DEPLOY-22-29-20PACKAGE-29"></a>
 
-#### [package](c7de) `40ants-deploy`
+#### [package](e6c3) `40ants-deploy`
 
 <a id="x-2840ANTS-DEPLOY-DOCS-2FINDEX-3A-3A-7C-4040ANTS-DEPLOY-3FFunctions-SECTION-7C-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
@@ -53,7 +53,7 @@ You can install this library from Quicklisp, but you want to receive updates qui
 
 <a id="x-2840ANTS-DEPLOY-3ADONT-DEPLOY-SYSTEM-LIBS-20FUNCTION-29"></a>
 
-##### [function](a4b1) `40ants-deploy:dont-deploy-system-libs`
+##### [function](0ebc) `40ants-deploy:dont-deploy-system-libs`
 
 Marks system libraries such way so Deploy will not put them into the bin/ folder.
 
@@ -61,8 +61,8 @@ Marks system libraries such way so Deploy will not put them into the bin/ folder
 [9b27]: https://40ants.com/40ants-deploy/
 [ac12]: https://github.com/40ants/40ants-deploy
 [89e2]: https://github.com/40ants/40ants-deploy/actions
-[c7de]: https://github.com/40ants/40ants-deploy/blob/67537ff61b3d8af121f075fe18acdf1c06a13008/src/core.lisp#L1
-[a4b1]: https://github.com/40ants/40ants-deploy/blob/67537ff61b3d8af121f075fe18acdf1c06a13008/src/core.lisp#L13
+[e6c3]: https://github.com/40ants/40ants-deploy/blob/6bbb1785ea455ba6d5456a74537781741a2f4337/src/core.lisp#L1
+[0ebc]: https://github.com/40ants/40ants-deploy/blob/6bbb1785ea455ba6d5456a74537781741a2f4337/src/core.lisp#L13
 [2cc0]: https://github.com/40ants/40ants-deploy/issues
 [0383]: https://quickdocs.org/cffi
 [e073]: https://quickdocs.org/deploy
